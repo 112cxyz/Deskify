@@ -6,6 +6,7 @@ Deskify gets your current playing song on spotify and picks two colours from the
 
 ### How Does Deskify Work?
 Deskify uses Localify which is a local wrapper for spotify to limit requets to the spotify elimiating rate limits.
+
 ### How Does it talk to my lights?
 Deskify is designed to be used with HomeAssistant by using the REST api.
 
